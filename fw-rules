@@ -1,7 +1,7 @@
 #!/bin/sh
 # Rules for firewall
 WAN_IFACE=eth0
-#probando
+#probando 354q44
 case "$1" in
 	start)
 	  echo "Starting FW..."
